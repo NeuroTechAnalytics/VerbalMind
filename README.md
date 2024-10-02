@@ -1,4 +1,4 @@
-# VerbalMin
+# VerbalMind
 
 **Objective:** To develop a speech processing algorithm using routine patient-nurse verbal communication and evaluate its performance when combined with electronic health record (EHR) data in detecting early signs of cognitive decline.
 **Method:** We analyzed 125 audio-recorded patient-nurse verbal communication for 47 patients from a major home healthcare agency in New York City. Out of 47 patients, 19 experienced symptoms associated with the onset of cognitive decline. An NLP algorithm was developed to extract domain-specific linguistic and interaction features from these recordings. The algorithm's performance was compared against EHR-based screening methods. Both standalone and combined data approaches were assessed using F1-score and Area Under the Curve (AUC) metrics. 
